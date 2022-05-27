@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "dataFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'dataFilePath'"
+  },
+  {
+    "name": "invalidFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'invalidFilePath'"
+  },
+  {
+    "name": "invalidFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'invalidFilePath'"
+  },
+  {
+    "name": "invalidFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'invalidFilePath'"
+  },
+  {
+    "name": "filePath",
+    "type": "java.lang.String",
+    "description": "A description for 'filePath'"
+  },
+  {
+    "name": "completedPath",
+    "type": "java.lang.String",
+    "description": "A description for 'completedPath'"
+  }
+]}
